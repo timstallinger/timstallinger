@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming with Python, automotive vehicles and Flash memory.
 - 🎓 I’m currently a student at Johannes Gutenberg University Mainz 
 - 🌱 I’m working as a software engineer my own company [TimIT](http://www.timit.dev)
-- 💞️ I’m looking to collaborate on all kinds of projects that look interesting.
 - 📫 How to reach me: info@timit.dev
 
 <!---
